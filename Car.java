@@ -2,7 +2,7 @@ package com.supreme;
 
 public class Car {
 public void name() {
-	System.out.println("MRD");
+	System.out.println("MRDE");
 
 }
 public static void main(String[] args) {
